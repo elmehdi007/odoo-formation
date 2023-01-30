@@ -1,0 +1,17 @@
+<odoo>
+
+    <record model="instance_request.instance_request" id="instance_1">
+        <field name="name">Formation</field>
+        <field name="adress_ip">124.52.32.323</field>
+        <field name="active">1</field>
+        <field name="cpu">i7</field>
+        <field name="ram">15go</field>
+        <field name="disk">1to</field>
+        <field name="url">google.fr</field>
+        <field name="state">brouillon</field>
+        <field name="limit_date">2024-01-27</field>
+        <field name="treat_date">2024-01-27</field>
+        <field name="treat_duration">12.23</field>
+    </record>
+
+</odoo>
